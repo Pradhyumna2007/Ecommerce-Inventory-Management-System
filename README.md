@@ -234,12 +234,12 @@ npm run dev
 
 ## Key DBMS Concepts Used
 
-* ✔ Normalization (3NF)
-* ✔ Indexing (B+ Tree)
-* ✔ Join Optimization
-* ✔ Transactions
-* ✔ Concurrency Control
-* ✔ Serializability
+* Normalization (3NF)
+* Indexing (B+ Tree)
+* Join Optimization
+* Transactions
+* Concurrency Control
+* Serializability
 
 ---
 
@@ -262,6 +262,6 @@ This project demonstrates how **DBMS concepts are applied in real-world systems*
 
 ---
 
-## ⭐ Note
+## Note
 
 For security reasons, sensitive data like API keys are not included in the repository.
